@@ -1,23 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Cẩm Tú Dương</h1>
-<h3 align="center">Frontend Developer | Currently learning Node.js 🚀</h3>
+<h3 align="center">Web Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=camtuduong&label=Profile%20views&color=0e75b6&style=flat" alt="camtuduong" />
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I'm currently working on **Frontend** projects (React, JavaScript, HTML/CSS...)
-- 🌱 I'm currently learning **Node.js** to move toward Fullstack development
-- 👯 I'm looking to collaborate on real-world **Web Application** projects
-- 🤔 I'm looking for help with **Backend architecture using Node.js/Express**
-- 💬 Ask me about: **React, JavaScript, CSS, Node.js basics**
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: I love polishing UI down to the last pixel 🎨
-
----
 
 ### 🛠️ Languages & Tools
 
@@ -31,28 +24,4 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=camtuduong&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camtuduong&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=camtuduong&theme=radical" alt="camtuduong" />
-</p>
-
----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-</p>
