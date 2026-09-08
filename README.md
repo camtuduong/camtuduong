@@ -1,6 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Cẩm Tú Dương</h1>
-<h3 align="center">Web Developer</h3>
-
+<h1 align="center">Hi there 👋, I'm Cẩm Tú Dương a Web Developer</h1>
 ### 🌐 Connect with me
 
 <p align="left">
